@@ -7,3 +7,4 @@ var timer = setInterval(function() {
         clearInterval(timer);
     }
 }, 2000);
+
